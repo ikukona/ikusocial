@@ -16,8 +16,8 @@
 
 
 body {
-    font-family: "Rajdhani", Helvetica, sans-serif;
-    background-color: #000000;
+    font-family: "Overpass", Helvetica, sans-serif;
+    background-color: #222222;
 
     
     color: white;
@@ -26,12 +26,16 @@ body {
 
 }
 
+.text-left{
+    text-align: left !important;
+}
+
 .modal{
-    background-color: rgba(0, 0, 0, 0.17)
+    background-color: rgba(0, 0, 0, 0.463)
 }
 
 .modal-content{
-    background-color: #000000;
+    background-color: #222222;
 }
 
 .nono {
@@ -116,26 +120,21 @@ button {
 
 
 .bigbutton{
-    background-color: #ffd800;
-    padding: 16px;
+    background-color: #141414;
     margin: 20px;
-    text-transform: uppercase;
     font-weight: 400;
-    text-align: center;
+    text-align: end;
     text-decoration: none;
     transition: 200ms;
-    font-size: 35px
+    padding: 20px;
+    
     
 
 }
 .bigbutton:hover{
-    background-color: #00ffc8;
-    padding: 16px;
-    margin: 20px;
-    text-transform: uppercase;
-    font-weight: 600;
-    letter-spacing: 2px;
-    scale: 1.08;
+    background-color: #752802;
+
+
 
 
 }
@@ -147,6 +146,7 @@ button {
     margin: 5px;
     scale: 1 !important;
     letter-spacing: normal;
+    color: white !important;
 
 }
 .mdlbtntxt:hover{
@@ -169,35 +169,13 @@ button {
 }
 
 
-.rajdhani-light {
-    font-family: "Rajdhani", sans-serif;
-    font-weight: 300;
-    font-style: normal;
-  }
-  
-  .rajdhani-regular {
-    font-family: "Rajdhani", sans-serif;
+.overpass-font {
+    font-family: "Overpass", serif;
+    font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
   }
   
-  .rajdhani-medium {
-    font-family: "Rajdhani", sans-serif;
-    font-weight: 500;
-    font-style: normal;
-  }
-  
-  .rajdhani-semibold {
-    font-family: "Rajdhani", sans-serif;
-    font-weight: 600;
-    font-style: normal;
-  }
-  
-  .rajdhani-bold {
-    font-family: "Rajdhani", sans-serif;
-    font-weight: 700;
-    font-style: normal;
-  }
 
 .tclblack{
     color: #000000 !important;
