@@ -10,46 +10,62 @@
 <link rel="stylesheet" href="assets/css/style.css">
 <link rel="stylesheet" href="style.css">
 <link rel="icon" type="image/x-icon" href="favicon.png">
-<style>
-    @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap');
-    </style>
 <title>ikukona / home</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
 </head>
-<body class="htmlbgcolor">
-    
-    <div class="container nono  text-center  sepoborder ">
-        <div class="row nono">
-            <div class="col-md-4 pos my-auto sepoborder">
-        <h1 class="titleiku1 z-3"><i>ikusocial</i></h1>
-                <a href="socials.html">
-                    <h1 class="bigbutton tclblack"><i>socials</i></h1>
-                </a>
-                <a href="renders.html">
-                    <h1 class="bigbutton tclblack "><i>renders</i></h1>
-                </a>
-                <!-- <h1 class="bigbutton tclblack"><i>other stuff</i></h1> -->
+<body>
 
-            </div>
-            <div class="col-md-8  my-auto ">
-                <div class="contentleft">
-                    <h1 class="titleiku1" style="text-align: left;"><i>hi, i'm<a href="https://drive.proton.me/urls/2JA76KPH38#4W3N8Qk6Qq6P" target="_blank" style="cursor: text !important;"> </a>ikukona</i></h1>
-                    <div style="padding-left: 20px;"> 
-                        <!-- (yes this is the lazy way i am very aware) -->
-                        <h2>hello!</h2>
-                        <h2>this is a site dedicated to my socials and past works, not that there is too many of each, i still felt that doing this is better than using a linktree like provider.
-                        </h2>
-                        <h2>if you feel like you haven't seen all you could ever want on this site feel free to contact me on my twitter and or on discord.</h2>
-                        <br>
-                        <h2 class="bclpink">discord server is closed, so you'll have to add me as a friend, it's "ikukona" over there too.
-                        </h2>
-                    </div>
-                </div>
-            </div>
+    <nav class="navbar navbar-expand-lg navbar-dark navbarblur text-white fixed-bottom justify-content-center">
+  <div class="container-fluid ">
+    <a class="navbar-brand" href="#">ikusocial</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0 text-center">
+        <li class="nav-item navitembg ">
+          <a class="nav-link onhovertextblack" href="index.html">home</a>
+        </li>
+        <li class="nav-item navitembg">
+          <a class="nav-link onhovertextblack" href="socials.html">socials</a>
+        </li>
+        <li class="nav-item navitembg">
+          <a class="nav-link onhovertextblack" href="renders.html">renders</a>
+        </li>
+        <li class="nav-item navitembg">
+          <a class="nav-link onhovertextblack tclwhite" href="other_fluff.html">other fluff</a>
+        </li>
+        
+
+    </div>
+  </div>
+</nav>
+
+
+
+<div class="content">
+    <div >
+        <h1 class="titleiku1">hi, i'm<a href="https://files.catbox.moe/epcbdu.mp4" target="_blank" class="worklink hidelink"> </a>ikukona</h1>
+        <h2>hello!</h2>
+        <h2>this is a site dedicated to my socials and past works, not that there is too many of each, i still felt that doing this is better than using a linktree like provider.</h2>
+        <h2>if you feel like you haven't seen all you could ever want on this site feel free to contact me on my twitter and or on discord.</h2>
+        <div class="warnbox">
+            <h1 id="randomWarn" style="font-weight: bold;"></h1>
+            <h2>the discord server is (for now) closed, if you want to reach me specifically on discord you will have to add me, it's "ikukona" there too, will try my best to reply fast.</h2>
         </div>
+    </div>
+</div>
 
-
+<!-- space for mobile scrolling! -->
+<br>
+<br>
+<br>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.9.2/umd/popper.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.0/js/bootstrap.min.js"></script>
+<script src="warntexts.js"></script>
 </body>
 </html>
