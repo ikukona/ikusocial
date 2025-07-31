@@ -56,7 +56,7 @@
     "you ruined my life!",
     "did someone say yoga?",
     "no, no yoga!",
-    "and i think that's all the time we had!",
+    "and i think that's all the time we've had!",
     "same time next week?",
     "15 dollars and a quarter. don't forget the quarter!",
     "you know other women?!",
@@ -80,6 +80,12 @@
     "i'm spunchbob!",
     "magyar peter gecije hmmmmm 🐎🐎🐎🐎🪜🪜🪜🪜🪜 arthur mo",
     "in GTA V, press and hold TAB to open your weapon wheel! 🧠💯",
+    "дикий огурец",
+    "felrobantottam a wc kunyhot",
+    "megjelent vegre a half-life 3",
+    "how about now benson???",
+    "how hungry.....",
+
     
 
 
