@@ -85,6 +85,10 @@
     "megjelent vegre a half-life 3",
     "how about now benson???",
     "how hungry.....",
+    "a bomb named alt cunningham",
+    "owlymoly started playing",
+    "welcome to the server of crazy watermelons!",
+    "on foenem!!!!",
 
     
 
