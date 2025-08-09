@@ -89,6 +89,7 @@
     "owlymoly started playing",
     "welcome to the server of crazy watermelons!",
     "on foenem!!!!",
+    "i hope your condom expires",
 
     
 
