@@ -90,6 +90,10 @@
     "welcome to the server of crazy watermelons!",
     "on foenem!!!!",
     "i hope your condom expires",
+    "IT'S ALL TYRONE'S FAULT",
+    "my heart is cold",
+    "my moves are bold",
+    "i save the world",
 
     
 
